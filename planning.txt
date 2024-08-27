@@ -1,0 +1,11 @@
+voting application functionality :
+
+1-> user sign in / sign up;
+2-> see the list of candidates 
+3-> vote one of candidates 
+4-> route which shows real time live counting 
+5->admin who maintains list of candidates and he will not be able to vote 
+6-> users can change password 
+7->they can login through the aadhar and password 
+8->once voted , they can't vote it back again 
+ 
